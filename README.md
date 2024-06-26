@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋 I'm Kritika Prasad!</h2>
+### Hi there 👋 I'm Kritika Prasad!
 
 👩‍💻 Software Developer with a passion for creating innovative solutions and contributing to open source projects. Currently delving into Full Stack Development and Artificial Intelligence.
 
@@ -12,12 +12,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kritika4you&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika4you&layout=compact&langs_count=5&card_width=320&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika4you&layout=compact&langs_count=5&card_width=320&theme=dracula&hide_border=false" height="150"  alt="Top Languages" />
 </div>
 
 ---
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/173675433?v=4" alt="Profile Picture" /> <!-- Replace 'Kritika.jpg' with the actual image URL -->
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/173675433?v=4" alt="Profile Picture" /> 
 
 ### About Me
 
