@@ -34,4 +34,7 @@ I am passionate about graphic designing and painting, with a keen interest in co
 
 </div>
 
+<img src="https://raw.githubusercontent.com/kritika4you/kritika4you/output/snake.svg" alt="Snake Animation" />
+<div align="center">
+
 
